@@ -9,3 +9,6 @@ AdvertiseGen/
 *.gz
 *.idea
 .DS_Store
+
+
+untrackfiles
